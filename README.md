@@ -14,5 +14,4 @@ This repo contains the programming assignments done during the course.
 ->The project required us to estimate the cost of setting up a virtual private cloud and a public cloud like AWS. 
 ...Cost is estimated for 3 configurations. Each configuration is based on instances on AWS- d2.8xlarge, r3.large, p3.16xlarge.
 ...Amortized and breakeven costs are calculated.
-...The calculated costs include the cost of maintenance, setting up the network, servers, network switches, cables, racks, cooling, power,
-...administration, etc
+...The calculated costs include the cost of maintenance, setting up the network, servers, network switches, cables, racks, cooling, power,administration, etc
